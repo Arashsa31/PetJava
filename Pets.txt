@@ -1,0 +1,14 @@
+Dash,3,18.0
+Woof,9,15.5
+Meow,7,8.0
+Froggy,1,1.0
+Moo,5,200
+Kitty,6,9.5
+Meow,2, 4.6
+Tweety,8,1.5
+Squirrel,2,1.2
+Bear,10, 400
+Racoon,4,12.5
+Fox,4,5.0
+Hamster,1,0.5
+Duck,2, 1.3
